@@ -1,0 +1,2 @@
+-- prepares the function used to compute the new value
+-- added to the customer's credit points
